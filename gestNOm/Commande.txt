@@ -1,0 +1,6 @@
+
+Commande importante:
+	
+	-date>> projInfo.txt ; wc -l *.cpp *.h >> projInfo.txt ;	
+
+	-echo "Nombre classe dans le fichier :" >>projInfo.txt ; grep "class" *.h | wc -l>> projInfo.txt ; echo " Nombre de methodes dans le fichiers: ">> projInfo.txt ;grep "("")" *.h | wc -l>> projInfo.txt 

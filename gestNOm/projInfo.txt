@@ -1,0 +1,12 @@
+jeudi 21 septembre 2017, 11:26:51 (UTC+0200)
+ 153 application.cpp
+   5 main.cpp
+  53 person.cpp
+  28 vecteur.cpp
+  16 application.h
+  20 person.h
+ 275 total
+Nombre classe par fichier :
+2
+ Nombre de methodes dans les différent fichiers: 
+12
